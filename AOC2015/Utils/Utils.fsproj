@@ -7,6 +7,8 @@
 
     <ItemGroup>
         <Compile Include="MetaUtils.fs" />
+        <Compile Include="Md5Utils.fs" />
+        <Compile Include="StringUtils.fs" />
     </ItemGroup>
 
 </Project>
