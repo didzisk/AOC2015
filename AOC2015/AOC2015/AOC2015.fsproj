@@ -13,6 +13,8 @@
         <Compile Include="Dec05.fs" />
         <Compile Include="Dec06Parser.fs" />
         <Compile Include="Dec06.fs" />
+        <Compile Include="Dec07Parser.fs" />
+        <Compile Include="Dec07.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
